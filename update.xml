@@ -2,17 +2,17 @@
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
 
   <!-- Microsoft Edge -->
-  <app appid='ehcopbofemlpmkmicglebapcbfbjlkac'>
+  <app appid='kldlklkiiabjppgffiblkjcpkpdbniik'>
     <updatecheck
-      version='4.1.6'
-      codebase='https://raw.githubusercontent.com/stoque-tech/FBPO-extension/main/FBPO-extension-v4.1.6.crx'/>
+      version='4.1.7'
+      codebase='https://raw.githubusercontent.com/stoque-tech/FBPO-extension/main/FBPO-extension-v4.1.7.crx'/>
   </app>
 
   <!-- Google Chrome -->
   <app appid='ibafheinjocpmbjabpbaoickjdcjofpg'>
     <updatecheck
-      version='4.1.6'
-      codebase='https://raw.githubusercontent.com/stoque-tech/FBPO-extension/main/FBPO-extension-v4.1.6.crx'/>
+      version='4.1.7'
+      codebase='https://raw.githubusercontent.com/stoque-tech/FBPO-extension/main/FBPO-extension-v4.1.7.crx'/>
   </app>
 
 </gupdate>
