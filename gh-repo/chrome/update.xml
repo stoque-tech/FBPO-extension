@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='ibafheinjocpmbjabpbaoickjdcjofpg'>
-    <updatecheck crtlmin='1' version='4.1.1' codebase='https://raw.githubusercontent.com/stoque-tech/FBPO-extension/main/chrome/FBPO-extension-v4.1.1.crx'/>
+    <updatecheck crtlmin='1' version='4.1.2' codebase='https://raw.githubusercontent.com/stoque-tech/FBPO-extension/main/chrome/FBPO-extension-v4.1.2.crx'/>
   </app>
 </gupdate>
