@@ -4,15 +4,15 @@
   <!-- Microsoft Edge -->
   <app appid='kldlklkiiabjppgffiblkjcpkpdbniik'>
     <updatecheck
-      version='4.1.10'
-      codebase='https://raw.githubusercontent.com/stoque-tech/FBPO-extension/main/FBPO-extension-v4.1.10.crx'/>
+      version='4.1.11'
+      codebase='https://raw.githubusercontent.com/stoque-tech/FBPO-extension/main/FBPO-extension-v4.1.11.crx'/>
   </app>
 
   <!-- Google Chrome -->
   <app appid='ibafheinjocpmbjabpbaoickjdcjofpg'>
     <updatecheck
-      version='4.1.10'
-      codebase='https://raw.githubusercontent.com/stoque-tech/FBPO-extension/main/FBPO-extension-v4.1.10.crx'/>
+      version='4.1.11'
+      codebase='https://raw.githubusercontent.com/stoque-tech/FBPO-extension/main/FBPO-extension-v4.1.11.crx'/>
   </app>
 
 </gupdate>
